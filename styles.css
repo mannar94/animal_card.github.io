@@ -1,0 +1,43 @@
+/* add your CSS here */
+body{
+    width: 325px;
+    background-color: antiquewhite;
+  -webkit-box-shadow: 13px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 13px 10px 5px 0px rgba(0,0,0,0.75);
+}
+h3{margin:2px 2px 2px 2px;
+    padding:5px 5px 5px 5px;
+     border: 1px  ;}
+parent{
+    position:fixed;
+    
+}
+.image-Container{
+    margin:2px 2px 2px 2px;
+    padding:  5px 5px 5px 5px;
+     
+    
+}
+.image{
+    width: 300px;
+    
+   
+}
+.interesting_Fact{font-style: italic; }
+li span {font-weight: bold;}
+ul{
+    list-style:none;
+    list-style-type:none;
+   padding:  5px 5px 5px 5px;
+    margin:2px 2px 2px 2px;
+   
+
+}
+.border{
+    border: 1px solid ;
+    padding:  5px 5px 5px 5px;
+    margin:2px 2px 2px 2px;
+    
+   
+}
